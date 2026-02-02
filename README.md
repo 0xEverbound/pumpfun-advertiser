@@ -2,7 +2,7 @@
   <img src="https://pump.fun/_next/image?url=%2Flogo.png&w=64&q=75" alt="PumpFun Logo" width="80"/>
 </p>
 
-<h1 align="center">PumpFun Advertise | pump.fun comment botr</h1>
+<h1 align="center">PumpFun Advertise | pump.fun comment bot</h1>
 
 ![showcase](https://github.com/user-attachments/assets/17780813-0ec5-4358-811d-29bfdebe6b09)
 
